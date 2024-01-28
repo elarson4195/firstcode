@@ -1,0 +1,51 @@
+@charset "utf-8";
+body{background-color: #cccccc;}
+
+.pagebox{
+	background-color: #ffffff;
+	width: 70%;
+	margin: auto;
+	
+}
+
+h1{
+	font-family: gotham, helvetica;
+	font-weight: 900;
+	font-sixe: 72px;
+}
+
+nav{
+	background-color: #cccccc;
+	padding: 5px;
+	font-family: gotham, helvetica;
+	
+}
+
+h2{
+	font-family: gotham, helvetica;
+
+}
+
+img{
+	width: 100%;
+}
+
+hr{
+	background-color: #000000;
+	padding: .5px;
+	
+}
+
+p{
+	font-family: gotham, helvetica;
+	font-size: 12px;
+	
+}
+
+footer{
+	font-family: gotham, helvetica;
+	font-weight: 600;
+	background-color: #cccccc;
+	text-align: center;
+	
+}
